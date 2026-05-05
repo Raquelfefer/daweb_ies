@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/instituto
-    username: postgres
-    password: root
+    url: jdbc:postgresql://localhost:5432/instituto_db
+    username: dev_user
+    password: dev_password
     driver-class-name: org.postgresql.Driver
 
   jpa:
