@@ -1,5 +1,5 @@
 spring:
   profiles:
-    active: local
+    active: pro
 server:
   port: ${PORT:8080}
